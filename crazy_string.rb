@@ -2,4 +2,4 @@
 
 def crazy_strings("Rabbit",b)
   
-puts "Hello #{animal}, your "
+puts "Hello #{animal}, your hair is "
